@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/posthog/posthog-go"
+	"github.com/NalaMoney/posthog-go"
 )
 
 func TestIsFeatureEnabled(projectAPIKey, personalAPIKey, endpoint string) {
